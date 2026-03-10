@@ -1,1 +1,1 @@
-# Examen_TP_benfredj_maher
+Ce projet est utilisé pour l'évaluation des compétences Git
